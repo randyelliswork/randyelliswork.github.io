@@ -4,8 +4,7 @@
 dribbbox.config = {
 
   dribbble_username : "randyellis",
-  short_description : "Founder of @localluxapp and @5ivehat | citizen of @appsterdamchi | Public Speaker | Visual Designer | Product Design |
-",
+  short_description : "Founder of @5ivehat, Visual Designer"
   email_address     : "randy.ellis.pro@gmail.com"
 
 }
